@@ -1,1 +1,1 @@
-export const DB_NAME = "dootChat";
+export const DB_NAME = "justConnect";
